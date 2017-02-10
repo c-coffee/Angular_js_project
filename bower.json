@@ -1,0 +1,24 @@
+{
+  "name": "Angular_js_project",
+  "homepage": "https://github.com/c-coffee/Angular_js_project",
+  "authors": [
+    "c-coffee <4165426@qq.com>"
+  ],
+  "description": "angularJs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2"
+  }
+}
